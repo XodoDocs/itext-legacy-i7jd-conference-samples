@@ -41,7 +41,7 @@ public class StringReverse {
     private String reverse(String text) {
         if (text.length() > 1) {
             //TODO Use a recursive call to reverse the text parameter
-            
+            return text.substring(text.length() - 1) + reverse(text.substring(0, text.length() - 1));
         }
         return text;
     }

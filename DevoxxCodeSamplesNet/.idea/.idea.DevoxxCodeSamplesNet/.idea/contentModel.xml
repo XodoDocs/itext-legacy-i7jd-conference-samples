@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\dotNet\DevoxxCodeSamplesNet\DevoxxCodeSamplesNet" t="IncludeFlat">
+      <e p="DevoxxCodeSamplesNet.sln" t="IncludeFlat" />
+      <e p="HTML" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HTML.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="HTML.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="OddEven" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="OddEven.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OddEven.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sort" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Sort.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Sort.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="StringReverse" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="StringReverse.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="StringReverse.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\kevin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kevin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DevoxxCodeSamplesNet.-1526697128.00" t="ExcludeRecursive" />
+  </component>
+</project>

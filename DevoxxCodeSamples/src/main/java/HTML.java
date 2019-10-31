@@ -31,11 +31,12 @@ public class HTML {
 
     public void createPdf() throws Exception {
         //TODO Create an input File or InputStream
-
+        FileInputStream input = new FileInputStream(HTML);
         //TODO Create an output File or OutputStream
+        FileOutputStream output = new FileOutputStream(DEST);
 
         ConverterProperties converterProperties = new ConverterProperties();
         converterProperties.setBaseUri(new File(HTML).getParent());
-//        HtmlConverter.convertToPdf(input, output, converterProperties);
+        HtmlConverter.convertToPdf(input, output, converterProperties);
     }
 }
